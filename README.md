@@ -1,4 +1,4 @@
 ## first-repo
 hello world,
-this is a fist repo in my github
+this is a first repo in my github
 
